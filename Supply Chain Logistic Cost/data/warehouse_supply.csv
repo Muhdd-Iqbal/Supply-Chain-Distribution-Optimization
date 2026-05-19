@@ -1,0 +1,4 @@
+warehouse_id,warehouse_city,capacity_unit,current_supply_unit
+WH-A,Jakarta,250000,210000
+WH-B,Semarang,180000,145000
+WH-C,Surabaya,150000,120000

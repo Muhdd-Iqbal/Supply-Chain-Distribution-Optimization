@@ -1,0 +1,8 @@
+pandas==3.0.2
+numpy==2.4.4
+duckdb==1.5.2
+Faker==40.18.0
+networkx==3.6.1
+PuL==3.3.1
+matplotlib==3.10.8
+plotly==6.7.0
