@@ -71,10 +71,10 @@ Optimization techniques:
 ├── src/
 │   ├── data.py
 │   ├── main.py
-|   ├── sql_utils.py
-|   ├── optimization.py
-|   ├── sensitivity_cost.py
-│
+│   ├── sql_utils.py
+│   ├── optimization.py
+│   ├── sensitivity_cost.py
+│ 
 ├── requirements.txt
 ├── README.md
 ```
