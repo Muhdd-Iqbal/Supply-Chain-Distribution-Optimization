@@ -74,8 +74,8 @@ Optimization techniques:
 │   ├── sql_utils.py
 │   ├── optimization.py
 │   ├── sensitivity_cost.py
+│   ├── requirements.txt
 │ 
-├── requirements.txt
 ├── README.md
 ```
 
