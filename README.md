@@ -32,7 +32,7 @@ The model was built using:
 * NetworkX
 * Plotly
 * Matplotlib
-* Faker (Generate dummy data)
+* Faker (synthetic dataset generation)
 
 Optimization techniques:
 
