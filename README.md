@@ -114,15 +114,18 @@ Key findings:
 The project includes:
 
 * Cost comparison tables
-<img width="552" height="232" alt="image" src="https://github.com/user-attachments/assets/4948f725-5d33-4963-8396-cf183bc63423" />
+<img width="396" height="219" alt="tabel comparisonn cost" src="https://github.com/user-attachments/assets/1393b6d5-603b-47e8-8f2b-8961d9ffe07c" />
+
+* Cost comparison in bar chart
+  <img width="1006" height="701" alt="barchat newwww" src="https://github.com/user-attachments/assets/f7f24efc-66b6-40c1-b57c-c3ed2eee1742" />
 
   
 * Warehouse-to-city network graphs
-  <img width="1182" height="659" alt="image" src="https://github.com/user-attachments/assets/061a8dad-f4f3-4b21-ba53-582ec7569176" />
-
+ <img width="1182" height="659" alt="network newww" src="https://github.com/user-attachments/assets/d7d8357d-f169-45a4-9940-509e2faf0cab" />
 
 * Geographic routing maps
-  <img width="979" height="600" alt="image" src="https://github.com/user-attachments/assets/9e94546a-d98b-4aee-a4e9-1947b9f48830" />
+<img width="908" height="500" alt="newplot geo" src="https://github.com/user-attachments/assets/1f093cf9-a9a8-4ae5-a57f-4eaa487963bb" />
+
 
 ---
 
