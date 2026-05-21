@@ -58,20 +58,22 @@ Optimization techniques:
 
 ```bash
 ├── data/
-│   ├── warehouse_data.csv
-│   ├── city_demand.csv
+│   ├── customer_master.csv
+│   ├── orders.csv
+│   ├── shiping_matrix.csv
+│   ├── warehouse_master.csv
+│   ├── warehouse_supply.csv
 │
 ├── notebooks/
-│   ├── optimization_model.ipynb
+│   ├── main.ipynb
+│   ├── visualization.ipynb
 │
 ├── src/
-│   ├── optimization.py
-│   ├── visualization.py
-│
-├── outputs/
-│   ├── cost_comparison.png
-│   ├── network_graph.png
-│   ├── geo_map.png
+│   ├── data.py
+│   ├── main.py
+|   ├── sql_utils.py
+|   ├── optimization.py
+|   ├── sensitivity_cost.py
 │
 ├── requirements.txt
 ├── README.md
