@@ -65,7 +65,6 @@ Optimization techniques:
 │   ├── warehouse_supply.csv
 │
 ├── notebooks/
-│   ├── main.ipynb
 │   ├── visualization.ipynb
 │
 ├── src/
